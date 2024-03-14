@@ -1,5 +1,6 @@
 use image::io::Reader;
 
+pub mod base;
 pub mod buffer;
 pub mod camera;
 pub mod keyboard_handler;
